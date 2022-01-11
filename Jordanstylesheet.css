@@ -1,0 +1,21 @@
+Body {
+    Background:  #87A6FF;
+    Font-family: tahoma;
+}
+
+   P {
+    font-family: Comic Sans Ms;
+}
+
+      #first {
+       height: 200px;
+       width: 200px;
+       background: #5C27C4;
+}
+
+        #second {
+        height: 200px;
+        width: 200px;
+        background: black;
+        
+}
